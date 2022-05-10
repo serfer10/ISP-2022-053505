@@ -8,6 +8,6 @@ setup(
     version='1.1',
     description='Application to serailize, deserialize and convert objects',
     author='Shiny',
-    packages=['serialiser_modules', 'serializers'],
+    packages=['modules', 'serializers'],
     scripts=['serial']
 )
